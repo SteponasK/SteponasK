@@ -8,7 +8,9 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SteponasK&theme=tokyonight&hide_border=true&bg_color=1A1B27" />
 </div>
+![](https://komarev.com/ghpvc/?username=your-SteponasK&style=flat-square)
 <!--
+
 **SteponasK/SteponasK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
