@@ -11,6 +11,9 @@
 </div>
 
 <!--
+Add some fun facts ttt
+Email, other ways of communication
+I'm currently learning ttt
 
 **SteponasK/SteponasK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
