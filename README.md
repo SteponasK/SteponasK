@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="README-images/animation.gif" alt="animation" style="margin: -20px;"></p>
+<p><img align="right" src="README-images/animation.gif" alt="animation" style="margin: -20px;" width="450" height="450"></p>
 
 <div align="left">
 
