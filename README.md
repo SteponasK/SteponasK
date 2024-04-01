@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="right" src="README-images/animation.gif" alt="animation" style="margin: -20px;" width="200" height="200"></p>
+<p><img align="right" src="README-images/animation.gif" alt="animation" style="margin: -20px;" width="240" height="240"></p>
 
 <div align="left">
 
