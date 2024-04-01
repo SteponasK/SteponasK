@@ -12,13 +12,14 @@
 
 <p><img align="right" src="https://github.com/SteponasK/SteponasK/blob/main/animation.gif" alt="animation" /></p>
 
+<div align="left">
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **steponaskam@gmail.com**
 
 - ⚡ Fun fact : I competed at __National Olympiad of Informatics__
-
+</div>
 <br>
 
 <h3 align="left">Connect with me:</h3>
