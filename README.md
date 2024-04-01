@@ -4,9 +4,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=steponask&label=Profile%20views&color=0e75b6&style=flat
-    alt="Profile Count" /> 
-  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steponask&label=Profile%20views&color=0e75b6&style=for-the-badge&color=blue" alt="profile views" /> </p>
 
 <br>
 
@@ -14,7 +12,7 @@
 
 <div align="left">
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning __Web Development__ and other programming languages
 
 - 📫 How to reach me **steponaskam@gmail.com**
 
