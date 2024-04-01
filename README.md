@@ -1,4 +1,4 @@
-
+<img position="top" align="center" src="README-images/animation-banner.gif">  
 <h1 align="center">Hi 👋, I'm SteponasK</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
