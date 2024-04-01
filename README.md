@@ -63,18 +63,18 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
+<!-- <h3>Statistical Data :-</h3> -->
+<!-- <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=steponask&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+    alt="" 
+    bg_color=#808080/></p> -->
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steponask&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steponask&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="" /></p> -->
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steponask&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steponask&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="" /></p>
     
