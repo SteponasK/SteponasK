@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/SteponasK/SteponasK/blob/main/animation.gif" alt="animation" /></p>
+<p><img align="right" src="README-images/animation.gif" alt="animation" style="margin: -20px;"></p>
 
 <div align="left">
 
